@@ -1,18 +1,21 @@
-# branchingnetwork
+# OpenAlea models, algorithms and simulation formalisms on Root Branching Network
 
-_________________
+The [Colloquium](https://dyco.lied.univ-paris-diderot.fr/BranchingNetworksFromExperimentToTheory_2025) is held in Paris, on 26 and 27 June 2025.
+This repository share a 2D+t root system architecture (RSA) dataset reconstructed automatically from the HIRROS platform.
 
-[![Docs](https://readthedocs.org/projects/branchingnetwork/badge/?version=latest)](https://branchingnetwork.readthedocs.io/)
-[![Build Status](https://github.com/openalea-incubator/branchingnetwork/actions/workflows/conda-package-build.yml/badge.svg?branch=main)](https://github.com/openalea-incubator/branchingnetwork/actions/workflows/conda-package-build.yml?query=branch%3Amaster)
-[![License](https://img.shields.io/badge/License--CeCILL-C-blue)](https://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html)
-[![Anaconda-Server Badge](https://anaconda.org/openalea3/branchingnetwork/badges/version.svg)](https://anaconda.org/openalea3/branchingnetwork)
 
-_________________
+## Authors
+- Christophe Pradal ([@pradal](https://github/pradal) ) : Multiscale Tree Graph, Topological Analysis, Simulation, Software
+- Fabrice Bauget ([@baugetfa](https://github/baugetfa)) : Hydraulic, RSML, Software
+- Thomas Arsouze ([@thomasarsouze](https://github/thomasarsouze)) : software
+- Frederic Boudon ([@fredboudon](https://github/fredboudon)): L-System Simulation, Tree Matching
+- Jean-Baptiste Durand ([@jbdurand](https://github/jbdurand)) : Tree Markovian models, Structure Analysis
+- Stathis Delivorias ([@jazzsta](https://github/jazzsta)) : Topological Data Analysis
+- Romain Fernandez ([@rocsg](https://github/rocsg)) : Spatio-temporal image analysis and phenotyping
+- Loaï Gandeel ([@Money-eng](https://github/Money-eng)) : Spatio-temporal image analysis and phenotyping
 
-[Read Latest Documentation](https://branchingnetwork.readthedocs.io/) - [Browse GitHub Code Repository](https://github.com/openalea-incubator/branchingnetwork/)
 
-_________________
-
+[OpenAlea](https://openalea.rtfd.io) is an open-source platform for
 **branchingnetwork** Tutorial for the workshop on Branching Networks
 
 ### Contributors
