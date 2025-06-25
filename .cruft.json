@@ -1,0 +1,23 @@
+{
+  "template": "https://github.com/openalea-incubator/cookiecutter/",
+  "commit": "6b22735e82583692a43e0712be54aa4808ed4dda",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Christophe Pradal",
+      "email": "christophe.pradal@cirad.fr",
+      "github_username": "openalea",
+      "project_name": "branchingnetwork",
+      "project_slug": "branchingnetwork",
+      "description": "Tutorial for the workshop on Branching Networks",
+      "version": "0.0.1",
+      "_copy_without_render": [
+        "conda/meta.yaml",
+        ".github/workflows/conda-package-build.yml"
+      ],
+      "_template": "https://github.com/openalea-incubator/cookiecutter/",
+      "_commit": "6b22735e82583692a43e0712be54aa4808ed4dda"
+    }
+  },
+  "directory": null
+}
