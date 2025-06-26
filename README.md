@@ -46,7 +46,7 @@ Dependencies :
 
 ### Mamba / Conda
 ```bash
-mamba create -n branch -c openalea3 -c conda-forge openalea.mtg rsml networkx jupyterlab
+mamba create -n branch -c openalea3 -c conda-forge openalea.mtg oawidgets rsml networkx jupyterlab
 ```
 
 To compute fluxes use
