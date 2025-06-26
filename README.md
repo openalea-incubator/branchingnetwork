@@ -71,7 +71,8 @@ mamba install -c openalea3 -c conda-forge openalea.hydroroot
 - Boudon, F., Pradal, C., Cokelaer, T., Prusinkiewicz, P., & Godin, C. (2012). L-Py: an L-system simulation framework for modeling plant architecture development based on a dynamic language. Frontiers in plant science, 3, 76. https://doi.org/10.3389/fpls.2012.00076
 
 ### Statistical Analysis of branching systems
-- 
+- Hidden Markov Tree Models : Durand et al., [2004](https://doi.org/10.1109/TSP.2004.832006), [2005](https://doi.org/10.1111/j.1469-8137.2005.01405.x)
+- Partially ordered Markov out-trees : [Fernique 2014](https://theses.hal.science/tel-01365814v1)
 
 ### Contributors
 
