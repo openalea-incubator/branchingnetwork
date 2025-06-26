@@ -1,0 +1,14 @@
+name: branching
+channels:
+  - conda-forge
+  - openalea3
+dependencies:
+  - openalea.mtg
+  - openalea.plantgl
+  - pandas
+  - matplotlib
+  - numpy
+  - rsml
+  - networkx
+
+
