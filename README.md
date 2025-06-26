@@ -1,6 +1,7 @@
-# OpenAlea models, algorithms and simulation formalisms on Root Branching Network
+# OpenAlea models, algorithms and simulation tools for Root Branching Network
 
 The [Colloquium](https://dyco.lied.univ-paris-diderot.fr/BranchingNetworksFromExperimentToTheory_2025) is held in Paris, on 26 and 27 June 2025.
+
 This repository share a 2D+t root system architecture (RSA) dataset reconstructed automatically from the HIRROS platform.
 
 [OpenAlea](https://openalea.rtfd.io) is an open-source platform for
@@ -41,7 +42,19 @@ Dependencies :
 * openalea.plantgl
 * rsml
 
+
+
 ### Mamba / Conda
+```bash
+mamba create -n branch -c openalea3 -c conda-forge openalea.mtg rsml networkx
+```
+
+To compute fluxes use
+```bash
+mamba activate branch
+mamba install -c openalea3 -c conda-forge openalea.hydroroot
+```
+
 
 
 ### Contributors
