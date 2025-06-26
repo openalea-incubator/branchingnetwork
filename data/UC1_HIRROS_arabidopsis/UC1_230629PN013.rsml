@@ -1,0 +1,2830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsml xmlns:po="http://www.plantontology.org/xml-dtd/po.dtd">
+  <metadata>
+    <version>1.4</version>
+    <unit>pixel(um)</unit>
+    <resolution>1</resolution>
+    <software>RootSystemTracker</software>
+    <user>Unknown</user>
+    <last-modified>2025-06-12T18:44:33.705606</last-modified>
+    <file-key>10beae8e-3c3b-407c-a724-5c734bba9b47</file-key>
+    <observation-hours>0.0,13.6583,19.6549,25.6589,31.6559,37.655,43.6534,49.6537,55.6555,61.6557,67.6547,73.6553,79.6567,85.657,91.6552,95.4305,101.4303,107.4301,113.4337,119.4308,125.43,131.4302,137.4273,143.4305,158.6063,164.601,170.5998,176.5988,182.6002</observation-hours>
+    <image>
+      <label>61_graph_expertized</label>
+      <sha256>Nothing there</sha256>
+      <name>22_registered_stack.tif</name>
+    </image>
+  </metadata>
+  <scene>
+    <plant id="1" label="Plant">
+      <root id="2" label="Root">
+        <geometry>
+          <polyline>
+            <point x="171.0" y="163.0"/>
+            <point x="173.0" y="179.0"/>
+            <point x="174.0" y="182.0"/>
+            <point x="173.0" y="185.0"/>
+            <point x="173.0" y="187.0"/>
+            <point x="173.0" y="190.0"/>
+            <point x="171.0" y="193.0"/>
+            <point x="171.0" y="196.0"/>
+            <point x="171.0" y="199.0"/>
+            <point x="171.0" y="203.0"/>
+            <point x="172.0" y="206.0"/>
+            <point x="172.0" y="226.0"/>
+            <point x="170.0" y="232.0"/>
+            <point x="170.0" y="247.0"/>
+            <point x="172.0" y="259.0"/>
+            <point x="172.0" y="282.0"/>
+            <point x="175.0" y="292.0"/>
+            <point x="175.0" y="308.0"/>
+            <point x="177.0" y="318.0"/>
+            <point x="179.0" y="321.0"/>
+            <point x="181.0" y="345.0"/>
+            <point x="184.0" y="354.0"/>
+            <point x="184.0" y="372.0"/>
+            <point x="185.0" y="390.0"/>
+            <point x="185.0" y="397.0"/>
+            <point x="187.0" y="399.0"/>
+            <point x="195.0" y="410.0"/>
+            <point x="200.0" y="417.0"/>
+            <point x="203.0" y="420.0"/>
+            <point x="205.0" y="425.0"/>
+            <point x="207.0" y="435.0"/>
+            <point x="207.0" y="443.0"/>
+            <point x="208.0" y="449.0"/>
+            <point x="208.0" y="454.0"/>
+            <point x="208.0" y="461.0"/>
+            <point x="208.0" y="467.0"/>
+            <point x="208.0" y="471.0"/>
+            <point x="208.0" y="476.0"/>
+            <point x="210.0" y="482.0"/>
+            <point x="210.0" y="488.0"/>
+            <point x="208.0" y="497.0"/>
+            <point x="207.0" y="502.0"/>
+            <point x="207.0" y="509.0"/>
+            <point x="207.0" y="515.0"/>
+            <point x="209.0" y="521.0"/>
+            <point x="212.0" y="528.0"/>
+            <point x="215.0" y="537.0"/>
+            <point x="216.0" y="544.0"/>
+            <point x="217.0" y="545.0"/>
+            <point x="217.0" y="564.0"/>
+            <point x="218.0" y="566.0"/>
+            <point x="220.0" y="570.0"/>
+            <point x="221.0" y="579.0"/>
+            <point x="222.0" y="593.0"/>
+            <point x="223.0" y="608.0"/>
+            <point x="225.0" y="618.0"/>
+          </polyline>
+        </geometry>
+        <functions>
+          <function domain="polyline" name="time">
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="1.0"/>
+            <sample value="2.0"/>
+            <sample value="2.7122"/>
+            <sample value="3.0"/>
+            <sample value="4.0"/>
+            <sample value="5.0"/>
+            <sample value="5.4407"/>
+            <sample value="6.0"/>
+            <sample value="7.0"/>
+            <sample value="8.0"/>
+            <sample value="9.0"/>
+            <sample value="10.0"/>
+            <sample value="11.0"/>
+            <sample value="12.0"/>
+            <sample value="13.0"/>
+            <sample value="14.0"/>
+            <sample value="15.0"/>
+            <sample value="16.0"/>
+            <sample value="17.0"/>
+            <sample value="18.0"/>
+            <sample value="19.0"/>
+            <sample value="20.0"/>
+            <sample value="21.0"/>
+            <sample value="22.0"/>
+            <sample value="23.0"/>
+            <sample value="24.0"/>
+            <sample value="24.0624"/>
+            <sample value="24.9013"/>
+            <sample value="25.0"/>
+            <sample value="25.3306"/>
+            <sample value="26.0"/>
+            <sample value="27.0"/>
+            <sample value="28.0"/>
+            <sample value="29.0"/>
+          </function>
+          <function domain="polyline" name="time_hours">
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="13.6583"/>
+            <sample value="17.9292"/>
+            <sample value="19.6549"/>
+            <sample value="25.6589"/>
+            <sample value="31.6559"/>
+            <sample value="34.2995"/>
+            <sample value="37.655"/>
+            <sample value="43.6534"/>
+            <sample value="49.6537"/>
+            <sample value="55.6555"/>
+            <sample value="61.6557"/>
+            <sample value="67.6547"/>
+            <sample value="73.6553"/>
+            <sample value="79.6567"/>
+            <sample value="85.657"/>
+            <sample value="91.6552"/>
+            <sample value="95.4305"/>
+            <sample value="101.4303"/>
+            <sample value="107.4301"/>
+            <sample value="113.4337"/>
+            <sample value="119.4308"/>
+            <sample value="125.43"/>
+            <sample value="131.4302"/>
+            <sample value="137.4273"/>
+            <sample value="143.4305"/>
+            <sample value="144.378"/>
+            <sample value="157.1081"/>
+            <sample value="158.6063"/>
+            <sample value="160.5881"/>
+            <sample value="164.601"/>
+            <sample value="170.5998"/>
+            <sample value="176.5988"/>
+            <sample value="182.6002"/>
+          </function>
+          <function domain="polyline" name="diameter">
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+            <sample value="4.0"/>
+          </function>
+        </functions>
+        <root id="3" label="Root">
+          <geometry>
+            <polyline>
+              <point x="168.0" y="198.0"/>
+              <point x="167.0" y="199.0"/>
+              <point x="166.0" y="200.0"/>
+              <point x="165.0" y="200.0"/>
+              <point x="163.0" y="202.0"/>
+              <point x="162.0" y="202.0"/>
+              <point x="161.0" y="202.0"/>
+              <point x="159.0" y="203.0"/>
+              <point x="156.0" y="204.0"/>
+              <point x="154.0" y="205.0"/>
+              <point x="149.0" y="209.0"/>
+              <point x="146.0" y="216.0"/>
+              <point x="144.0" y="221.0"/>
+              <point x="143.0" y="227.0"/>
+              <point x="140.0" y="235.0"/>
+              <point x="143.0" y="252.0"/>
+              <point x="146.0" y="263.0"/>
+              <point x="148.0" y="272.0"/>
+              <point x="150.0" y="280.0"/>
+              <point x="154.0" y="289.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="10.0"/>
+              <sample value="11.0"/>
+              <sample value="12.0"/>
+              <sample value="13.0"/>
+              <sample value="14.0"/>
+              <sample value="15.0"/>
+              <sample value="16.0"/>
+              <sample value="17.0"/>
+              <sample value="18.0"/>
+              <sample value="19.0"/>
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="0.0"/>
+              <sample value="67.6547"/>
+              <sample value="73.6553"/>
+              <sample value="79.6567"/>
+              <sample value="85.657"/>
+              <sample value="91.6552"/>
+              <sample value="95.4305"/>
+              <sample value="101.4303"/>
+              <sample value="107.4301"/>
+              <sample value="113.4337"/>
+              <sample value="119.4308"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+              <sample value="6.324555320336759"/>
+            </function>
+          </functions>
+        </root>
+        <root id="4" label="Root">
+          <geometry>
+            <polyline>
+              <point x="174.0" y="224.0"/>
+              <point x="175.0" y="226.0"/>
+              <point x="176.0" y="227.0"/>
+              <point x="177.0" y="227.0"/>
+              <point x="179.0" y="228.0"/>
+              <point x="181.0" y="231.0"/>
+              <point x="183.0" y="231.0"/>
+              <point x="187.0" y="236.0"/>
+              <point x="188.0" y="239.0"/>
+              <point x="189.0" y="241.0"/>
+              <point x="189.0" y="242.0"/>
+              <point x="190.0" y="243.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="18.0"/>
+              <sample value="19.0"/>
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="0.0"/>
+              <sample value="113.4337"/>
+              <sample value="119.4308"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+            </function>
+          </functions>
+        </root>
+        <root id="5" label="Root">
+          <geometry>
+            <polyline>
+              <point x="170.0" y="284.0"/>
+              <point x="169.0" y="285.0"/>
+              <point x="168.0" y="284.0"/>
+              <point x="167.0" y="285.0"/>
+              <point x="166.0" y="286.0"/>
+              <point x="162.0" y="288.0"/>
+              <point x="160.0" y="291.0"/>
+              <point x="160.0" y="291.0"/>
+              <point x="159.0" y="292.0"/>
+              <point x="159.0" y="292.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="0.0"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+            </function>
+          </functions>
+        </root>
+        <root id="6" label="Root">
+          <geometry>
+            <polyline>
+              <point x="182.0" y="393.0"/>
+              <point x="181.0" y="394.5"/>
+              <point x="180.0" y="396.0"/>
+              <point x="179.0" y="397.0"/>
+              <point x="176.3554" y="400.5261"/>
+              <point x="176.0" y="401.0"/>
+              <point x="176.0" y="405.0"/>
+              <point x="176.0" y="411.0"/>
+              <point x="182.0" y="427.0"/>
+              <point x="186.0" y="434.0"/>
+              <point x="187.0" y="443.0"/>
+              <point x="188.0" y="449.0"/>
+              <point x="189.0" y="450.0"/>
+              <point x="189.0" y="461.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="18.0"/>
+              <sample value="19.0"/>
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="22.1344"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="28.1139"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="107.4301"/>
+              <sample value="113.4337"/>
+              <sample value="119.4308"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="132.2348"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="177.2824"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+            </function>
+          </functions>
+        </root>
+        <root id="7" label="Root">
+          <geometry>
+            <polyline>
+              <point x="204.0" y="417.0"/>
+              <point x="207.0" y="419.0"/>
+              <point x="212.0" y="421.0"/>
+              <point x="216.0" y="424.0"/>
+              <point x="218.0" y="426.0"/>
+              <point x="219.0" y="427.0"/>
+              <point x="222.0" y="429.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+            </function>
+          </functions>
+        </root>
+      </root>
+    </plant>
+    <plant id="8" label="Plant">
+      <root id="9" label="Root">
+        <geometry>
+          <polyline>
+            <point x="392.0" y="159.0"/>
+            <point x="391.0" y="161.0"/>
+            <point x="390.0" y="163.0"/>
+            <point x="390.0" y="165.0"/>
+            <point x="390.0" y="166.0"/>
+            <point x="390.0" y="168.0"/>
+            <point x="390.0" y="170.0"/>
+            <point x="389.0" y="172.0"/>
+            <point x="389.0" y="174.0"/>
+            <point x="388.0" y="176.0"/>
+            <point x="390.0" y="178.0"/>
+            <point x="390.0" y="194.0"/>
+            <point x="393.0" y="199.0"/>
+            <point x="393.0" y="217.0"/>
+            <point x="392.0" y="218.0"/>
+            <point x="393.0" y="242.0"/>
+            <point x="401.0" y="254.0"/>
+            <point x="402.0" y="268.0"/>
+            <point x="406.0" y="274.0"/>
+            <point x="406.0" y="289.0"/>
+            <point x="404.0" y="297.0"/>
+            <point x="405.0" y="337.0"/>
+            <point x="403.0" y="347.0"/>
+            <point x="403.0" y="360.0"/>
+            <point x="407.0" y="372.0"/>
+            <point x="415.0" y="382.0"/>
+            <point x="421.0" y="388.0"/>
+            <point x="427.0" y="395.0"/>
+            <point x="430.0" y="404.0"/>
+            <point x="431.0" y="412.0"/>
+            <point x="431.0" y="419.0"/>
+            <point x="431.0" y="423.0"/>
+            <point x="431.0" y="430.0"/>
+            <point x="431.0" y="437.0"/>
+            <point x="431.0" y="444.0"/>
+            <point x="431.0" y="450.0"/>
+            <point x="429.0" y="461.0"/>
+            <point x="429.0" y="463.0"/>
+            <point x="428.0" y="467.0"/>
+            <point x="428.0" y="475.0"/>
+            <point x="429.0" y="480.0"/>
+            <point x="429.0" y="487.0"/>
+            <point x="429.0" y="496.0"/>
+            <point x="429.0" y="499.0"/>
+            <point x="429.0" y="506.0"/>
+            <point x="429.0" y="513.0"/>
+            <point x="429.0" y="532.0"/>
+            <point x="429.0" y="541.0"/>
+            <point x="431.0" y="552.0"/>
+            <point x="432.0" y="562.0"/>
+            <point x="432.0" y="573.0"/>
+            <point x="433.0" y="574.0"/>
+          </polyline>
+        </geometry>
+        <functions>
+          <function domain="polyline" name="time">
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="1.0"/>
+            <sample value="2.0"/>
+            <sample value="3.0"/>
+            <sample value="4.0"/>
+            <sample value="5.0"/>
+            <sample value="6.0"/>
+            <sample value="7.0"/>
+            <sample value="8.0"/>
+            <sample value="9.0"/>
+            <sample value="10.0"/>
+            <sample value="11.0"/>
+            <sample value="12.0"/>
+            <sample value="13.0"/>
+            <sample value="14.0"/>
+            <sample value="15.0"/>
+            <sample value="16.0"/>
+            <sample value="17.0"/>
+            <sample value="18.0"/>
+            <sample value="19.0"/>
+            <sample value="20.0"/>
+            <sample value="21.0"/>
+            <sample value="22.0"/>
+            <sample value="23.0"/>
+            <sample value="24.0"/>
+            <sample value="25.0"/>
+            <sample value="26.0"/>
+            <sample value="27.0"/>
+            <sample value="28.0"/>
+            <sample value="28.8861"/>
+            <sample value="29.0"/>
+          </function>
+          <function domain="polyline" name="time_hours">
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="13.6583"/>
+            <sample value="19.6549"/>
+            <sample value="25.6589"/>
+            <sample value="31.6559"/>
+            <sample value="37.655"/>
+            <sample value="43.6534"/>
+            <sample value="49.6537"/>
+            <sample value="55.6555"/>
+            <sample value="61.6557"/>
+            <sample value="67.6547"/>
+            <sample value="73.6553"/>
+            <sample value="79.6567"/>
+            <sample value="85.657"/>
+            <sample value="91.6552"/>
+            <sample value="95.4305"/>
+            <sample value="101.4303"/>
+            <sample value="107.4301"/>
+            <sample value="113.4337"/>
+            <sample value="119.4308"/>
+            <sample value="125.43"/>
+            <sample value="131.4302"/>
+            <sample value="137.4273"/>
+            <sample value="143.4305"/>
+            <sample value="158.6063"/>
+            <sample value="164.601"/>
+            <sample value="170.5998"/>
+            <sample value="176.5988"/>
+            <sample value="181.9165"/>
+            <sample value="182.6002"/>
+          </function>
+          <function domain="polyline" name="diameter">
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+          </function>
+        </functions>
+        <root id="10" label="Root">
+          <geometry>
+            <polyline>
+              <point x="388.0" y="194.0"/>
+              <point x="385.0" y="196.0"/>
+              <point x="384.0" y="196.0"/>
+              <point x="382.0" y="198.0"/>
+              <point x="380.0" y="200.0"/>
+              <point x="379.0" y="204.0"/>
+              <point x="377.0" y="209.0"/>
+              <point x="377.0" y="214.0"/>
+              <point x="376.0" y="220.0"/>
+              <point x="376.0" y="225.0"/>
+              <point x="375.0" y="238.0"/>
+              <point x="376.0" y="247.0"/>
+              <point x="378.0" y="255.0"/>
+              <point x="378.0" y="258.0"/>
+              <point x="378.0" y="259.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="15.0"/>
+              <sample value="16.0"/>
+              <sample value="17.0"/>
+              <sample value="18.0"/>
+              <sample value="19.0"/>
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="0.0"/>
+              <sample value="95.4305"/>
+              <sample value="101.4303"/>
+              <sample value="107.4301"/>
+              <sample value="113.4337"/>
+              <sample value="119.4308"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+            </function>
+          </functions>
+        </root>
+        <root id="11" label="Root">
+          <geometry>
+            <polyline>
+              <point x="391.0" y="243.0"/>
+              <point x="387.0" y="245.0"/>
+              <point x="386.0" y="245.0"/>
+              <point x="385.0" y="246.0"/>
+              <point x="383.0" y="247.0"/>
+              <point x="380.0" y="251.0"/>
+              <point x="377.0" y="253.0"/>
+              <point x="376.0" y="256.0"/>
+              <point x="374.0" y="257.0"/>
+              <point x="374.0" y="258.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="0.0"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+            </function>
+          </functions>
+        </root>
+        <root id="12" label="Root">
+          <geometry>
+            <polyline>
+              <point x="403.0" y="254.0"/>
+              <point x="405.0" y="256.0"/>
+              <point x="407.0" y="257.0"/>
+              <point x="411.0" y="262.0"/>
+              <point x="412.0" y="267.0"/>
+              <point x="413.0" y="271.0"/>
+              <point x="415.0" y="275.0"/>
+              <point x="415.0" y="279.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="0.0"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+            </function>
+          </functions>
+        </root>
+        <root id="13" label="Root">
+          <geometry>
+            <polyline>
+              <point x="405.0" y="374.0"/>
+              <point x="405.0" y="374.5"/>
+              <point x="405.0" y="375.0"/>
+              <point x="404.0" y="376.0"/>
+              <point x="403.0" y="377.0"/>
+              <point x="401.0" y="381.0"/>
+              <point x="399.0" y="384.0"/>
+              <point x="393.0" y="392.0"/>
+              <point x="393.0" y="394.0"/>
+              <point x="392.0" y="401.0"/>
+              <point x="395.0" y="408.0"/>
+              <point x="398.0" y="413.0"/>
+              <point x="401.0" y="421.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="18.0"/>
+              <sample value="19.0"/>
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="24.8398"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="107.4301"/>
+              <sample value="113.4337"/>
+              <sample value="119.4308"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="156.1751"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+            </function>
+          </functions>
+        </root>
+        <root id="14" label="Root">
+          <geometry>
+            <polyline>
+              <point x="431.0" y="397.0"/>
+              <point x="431.5" y="397.5"/>
+              <point x="432.0" y="398.0"/>
+              <point x="433.0" y="400.0"/>
+              <point x="437.0" y="405.0"/>
+              <point x="439.0" y="409.0"/>
+              <point x="440.0" y="413.0"/>
+              <point x="442.0" y="416.0"/>
+              <point x="446.0" y="421.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+            </function>
+          </functions>
+        </root>
+      </root>
+    </plant>
+    <plant id="15" label="Plant">
+      <root id="16" label="Root">
+        <geometry>
+          <polyline>
+            <point x="598.0" y="159.0"/>
+            <point x="598.0" y="161.0"/>
+            <point x="598.0" y="163.0"/>
+            <point x="598.0" y="165.0"/>
+            <point x="598.0" y="167.0"/>
+            <point x="598.0" y="169.0"/>
+            <point x="598.0" y="171.0"/>
+            <point x="601.0" y="174.0"/>
+            <point x="601.0" y="180.0"/>
+            <point x="603.0" y="182.0"/>
+            <point x="605.0" y="237.0"/>
+            <point x="604.0" y="238.0"/>
+            <point x="604.0" y="259.0"/>
+            <point x="602.0" y="261.0"/>
+            <point x="602.0" y="278.0"/>
+            <point x="598.0" y="288.0"/>
+            <point x="597.0" y="317.0"/>
+            <point x="600.0" y="323.0"/>
+            <point x="599.0" y="357.0"/>
+            <point x="594.0" y="368.0"/>
+            <point x="594.0" y="379.0"/>
+            <point x="597.0" y="398.0"/>
+            <point x="600.0" y="406.0"/>
+            <point x="600.0" y="412.0"/>
+            <point x="600.0" y="417.0"/>
+            <point x="603.0" y="422.0"/>
+            <point x="611.0" y="430.0"/>
+            <point x="615.0" y="434.0"/>
+            <point x="615.0" y="437.0"/>
+            <point x="615.0" y="449.0"/>
+            <point x="613.0" y="459.0"/>
+            <point x="614.0" y="469.0"/>
+            <point x="615.0" y="477.0"/>
+            <point x="613.0" y="481.0"/>
+            <point x="613.0" y="487.0"/>
+            <point x="614.0" y="499.0"/>
+            <point x="614.0" y="512.0"/>
+            <point x="613.0" y="517.0"/>
+            <point x="613.0" y="528.0"/>
+            <point x="616.0" y="535.0"/>
+            <point x="624.0" y="550.0"/>
+            <point x="628.0" y="557.0"/>
+            <point x="630.0" y="566.0"/>
+            <point x="630.0" y="578.0"/>
+            <point x="628.0" y="581.0"/>
+            <point x="628.0" y="587.0"/>
+            <point x="626.0" y="594.0"/>
+            <point x="624.0" y="606.0"/>
+            <point x="624.0" y="616.0"/>
+            <point x="625.0" y="617.0"/>
+            <point x="632.0" y="638.0"/>
+            <point x="635.0" y="647.0"/>
+            <point x="636.0" y="654.0"/>
+            <point x="638.0" y="657.0"/>
+            <point x="638.0" y="660.0"/>
+            <point x="640.0" y="663.0"/>
+            <point x="640.0" y="666.0"/>
+          </polyline>
+        </geometry>
+        <functions>
+          <function domain="polyline" name="time">
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="1.0"/>
+            <sample value="2.0"/>
+            <sample value="2.5875"/>
+            <sample value="3.0"/>
+            <sample value="3.4616"/>
+            <sample value="4.0"/>
+            <sample value="5.0"/>
+            <sample value="5.6535"/>
+            <sample value="6.0"/>
+            <sample value="7.0"/>
+            <sample value="8.0"/>
+            <sample value="9.0"/>
+            <sample value="10.0"/>
+            <sample value="10.4271"/>
+            <sample value="11.0"/>
+            <sample value="12.0"/>
+            <sample value="13.0"/>
+            <sample value="14.0"/>
+            <sample value="15.0"/>
+            <sample value="16.0"/>
+            <sample value="17.0"/>
+            <sample value="18.0"/>
+            <sample value="19.0"/>
+            <sample value="20.0"/>
+            <sample value="20.3754"/>
+            <sample value="21.0"/>
+            <sample value="22.0"/>
+            <sample value="23.0"/>
+            <sample value="23.8761"/>
+            <sample value="24.0"/>
+            <sample value="25.0"/>
+            <sample value="26.0"/>
+            <sample value="27.0"/>
+            <sample value="27.5458"/>
+            <sample value="28.0"/>
+            <sample value="28.5458"/>
+            <sample value="29.0"/>
+          </function>
+          <function domain="polyline" name="time_hours">
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="13.6583"/>
+            <sample value="17.1811"/>
+            <sample value="19.6549"/>
+            <sample value="22.4266"/>
+            <sample value="25.6589"/>
+            <sample value="31.6559"/>
+            <sample value="35.576"/>
+            <sample value="37.655"/>
+            <sample value="43.6534"/>
+            <sample value="49.6537"/>
+            <sample value="55.6555"/>
+            <sample value="61.6557"/>
+            <sample value="64.2176"/>
+            <sample value="67.6547"/>
+            <sample value="73.6553"/>
+            <sample value="79.6567"/>
+            <sample value="85.657"/>
+            <sample value="91.6552"/>
+            <sample value="95.4305"/>
+            <sample value="101.4303"/>
+            <sample value="107.4301"/>
+            <sample value="113.4337"/>
+            <sample value="119.4308"/>
+            <sample value="121.6827"/>
+            <sample value="125.43"/>
+            <sample value="131.4302"/>
+            <sample value="137.4273"/>
+            <sample value="142.6867"/>
+            <sample value="143.4305"/>
+            <sample value="158.6063"/>
+            <sample value="164.601"/>
+            <sample value="170.5998"/>
+            <sample value="173.8743"/>
+            <sample value="176.5988"/>
+            <sample value="179.8746"/>
+            <sample value="182.6002"/>
+          </function>
+          <function domain="polyline" name="diameter">
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+          </function>
+        </functions>
+        <root id="17" label="Root">
+          <geometry>
+            <polyline>
+              <point x="601.0" y="210.0"/>
+              <point x="600.0" y="211.0"/>
+              <point x="598.0" y="212.0"/>
+              <point x="596.0" y="213.0"/>
+              <point x="590.0" y="216.0"/>
+              <point x="588.0" y="220.0"/>
+              <point x="587.0" y="225.0"/>
+              <point x="586.0" y="227.0"/>
+              <point x="585.0" y="231.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="0.0"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+            </function>
+          </functions>
+        </root>
+        <root id="18" label="Root">
+          <geometry>
+            <polyline>
+              <point x="608.0" y="236.0"/>
+              <point x="610.0" y="236.0"/>
+              <point x="611.0" y="238.0"/>
+              <point x="612.0" y="239.0"/>
+              <point x="614.0" y="242.0"/>
+              <point x="620.0" y="245.0"/>
+              <point x="622.0" y="249.0"/>
+              <point x="625.0" y="252.0"/>
+              <point x="628.0" y="254.0"/>
+              <point x="631.0" y="256.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="0.0"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+            </function>
+          </functions>
+        </root>
+        <root id="19" label="Root">
+          <geometry>
+            <polyline>
+              <point x="595.0" y="289.0"/>
+              <point x="594.5" y="289.5"/>
+              <point x="594.0" y="290.0"/>
+              <point x="593.5" y="290.5"/>
+              <point x="593.0" y="291.0"/>
+              <point x="592.0" y="292.0"/>
+              <point x="590.0" y="294.0"/>
+              <point x="587.0" y="298.0"/>
+              <point x="585.0" y="301.0"/>
+              <point x="582.0" y="305.0"/>
+              <point x="580.0" y="308.0"/>
+              <point x="577.0" y="311.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="18.0"/>
+              <sample value="19.0"/>
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="107.4301"/>
+              <sample value="113.4337"/>
+              <sample value="119.4308"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+            </function>
+          </functions>
+        </root>
+        <root id="20" label="Root">
+          <geometry>
+            <polyline>
+              <point x="601.0" y="357.0"/>
+              <point x="601.3333" y="357.3333"/>
+              <point x="601.6666" y="357.6667"/>
+              <point x="602.0" y="358.0"/>
+              <point x="604.0" y="358.0"/>
+              <point x="606.0" y="359.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="6.0"/>
+              <sample value="6.0"/>
+              <sample value="6.0"/>
+              <sample value="6.0"/>
+              <sample value="6.0"/>
+              <sample value="6.0"/>
+            </function>
+          </functions>
+        </root>
+        <root id="21" label="Root">
+          <geometry>
+            <polyline>
+              <point x="598.0" y="417.0"/>
+              <point x="598.0" y="417.5"/>
+              <point x="598.0" y="418.0"/>
+              <point x="598.0" y="419.0"/>
+              <point x="597.0" y="420.0"/>
+              <point x="596.0" y="422.0"/>
+              <point x="595.0" y="425.0"/>
+              <point x="592.0" y="430.0"/>
+              <point x="587.0" y="437.0"/>
+              <point x="587.0" y="441.0"/>
+              <point x="586.0" y="450.0"/>
+              <point x="586.0" y="457.0"/>
+              <point x="585.0" y="463.0"/>
+              <point x="585.0" y="470.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="17.0"/>
+              <sample value="18.0"/>
+              <sample value="19.0"/>
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="24.694"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="101.4303"/>
+              <sample value="107.4301"/>
+              <sample value="113.4337"/>
+              <sample value="119.4308"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="153.9618"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+            </function>
+          </functions>
+        </root>
+        <root id="22" label="Root">
+          <geometry>
+            <polyline>
+              <point x="618.0" y="437.0"/>
+              <point x="619.0" y="437.0"/>
+              <point x="620.0" y="437.0"/>
+              <point x="623.0" y="440.0"/>
+              <point x="627.0" y="442.0"/>
+              <point x="631.0" y="446.0"/>
+              <point x="632.0" y="449.0"/>
+              <point x="635.0" y="454.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+            </function>
+          </functions>
+        </root>
+        <root id="23" label="Root">
+          <geometry>
+            <polyline>
+              <point x="617.0" y="477.0"/>
+              <point x="617.0" y="478.0"/>
+              <point x="618.0" y="480.0"/>
+              <point x="619.0" y="483.0"/>
+              <point x="621.0" y="486.0"/>
+              <point x="624.0" y="490.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+            </function>
+          </functions>
+        </root>
+        <root id="24" label="Root">
+          <geometry>
+            <polyline>
+              <point x="610.0" y="525.0"/>
+              <point x="610.0" y="525.5"/>
+              <point x="610.0" y="526.0"/>
+              <point x="608.5" y="527.5"/>
+              <point x="607.0" y="529.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+            </function>
+          </functions>
+        </root>
+      </root>
+    </plant>
+    <plant id="25" label="Plant">
+      <root id="26" label="Root">
+        <geometry>
+          <polyline>
+            <point x="986.0" y="158.0"/>
+            <point x="985.0" y="159.0"/>
+            <point x="984.0" y="161.0"/>
+            <point x="983.0" y="163.0"/>
+            <point x="982.0" y="165.0"/>
+            <point x="980.0" y="167.0"/>
+            <point x="979.0" y="170.0"/>
+            <point x="978.0" y="172.0"/>
+            <point x="978.0" y="174.0"/>
+            <point x="978.0" y="176.0"/>
+            <point x="978.0" y="178.0"/>
+            <point x="978.0" y="181.0"/>
+            <point x="979.0" y="184.0"/>
+            <point x="981.0" y="188.0"/>
+            <point x="981.0" y="196.0"/>
+            <point x="978.0" y="205.0"/>
+            <point x="978.0" y="221.0"/>
+            <point x="982.0" y="233.0"/>
+            <point x="980.0" y="250.0"/>
+            <point x="984.0" y="271.0"/>
+            <point x="984.0" y="294.0"/>
+            <point x="987.0" y="300.0"/>
+            <point x="988.0" y="341.0"/>
+            <point x="988.0" y="349.0"/>
+            <point x="989.0" y="357.0"/>
+            <point x="993.0" y="362.0"/>
+            <point x="999.0" y="366.0"/>
+            <point x="1005.0" y="370.0"/>
+            <point x="1010.0" y="374.0"/>
+            <point x="1013.0" y="380.0"/>
+            <point x="1014.0" y="385.0"/>
+            <point x="1014.0" y="388.0"/>
+            <point x="1014.0" y="393.0"/>
+            <point x="1014.0" y="400.0"/>
+            <point x="1014.0" y="404.0"/>
+            <point x="1014.0" y="406.5"/>
+            <point x="1014.0" y="409.0"/>
+            <point x="1014.0" y="412.0"/>
+            <point x="1013.0" y="415.0"/>
+            <point x="1012.0" y="419.5"/>
+            <point x="1011.0" y="424.0"/>
+            <point x="1010.0" y="427.0"/>
+            <point x="1010.0" y="430.0"/>
+            <point x="1009.0" y="436.0"/>
+            <point x="1009.0" y="440.0"/>
+            <point x="1009.0" y="449.0"/>
+            <point x="1012.0" y="454.0"/>
+            <point x="1012.0" y="459.0"/>
+            <point x="1015.0" y="466.0"/>
+            <point x="1016.0" y="472.0"/>
+            <point x="1018.0" y="475.0"/>
+            <point x="1018.0" y="480.0"/>
+            <point x="1018.0" y="487.0"/>
+            <point x="1019.0" y="498.0"/>
+          </polyline>
+        </geometry>
+        <functions>
+          <function domain="polyline" name="time">
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="1.0"/>
+            <sample value="2.0"/>
+            <sample value="3.0"/>
+            <sample value="4.0"/>
+            <sample value="5.0"/>
+            <sample value="6.0"/>
+            <sample value="7.0"/>
+            <sample value="8.0"/>
+            <sample value="9.0"/>
+            <sample value="10.0"/>
+            <sample value="11.0"/>
+            <sample value="12.0"/>
+            <sample value="13.0"/>
+            <sample value="14.0"/>
+            <sample value="15.0"/>
+            <sample value="16.0"/>
+            <sample value="17.0"/>
+            <sample value="18.0"/>
+            <sample value="19.0"/>
+            <sample value="20.0"/>
+            <sample value="21.0"/>
+            <sample value="22.0"/>
+            <sample value="23.0"/>
+            <sample value="24.0"/>
+            <sample value="24.3161"/>
+            <sample value="24.5871"/>
+            <sample value="25.0"/>
+            <sample value="26.0"/>
+            <sample value="26.419"/>
+            <sample value="27.0"/>
+            <sample value="28.0"/>
+            <sample value="29.0"/>
+          </function>
+          <function domain="polyline" name="time_hours">
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="13.6583"/>
+            <sample value="19.6549"/>
+            <sample value="25.6589"/>
+            <sample value="31.6559"/>
+            <sample value="37.655"/>
+            <sample value="43.6534"/>
+            <sample value="49.6537"/>
+            <sample value="55.6555"/>
+            <sample value="61.6557"/>
+            <sample value="67.6547"/>
+            <sample value="73.6553"/>
+            <sample value="79.6567"/>
+            <sample value="85.657"/>
+            <sample value="91.6552"/>
+            <sample value="95.4305"/>
+            <sample value="101.4303"/>
+            <sample value="107.4301"/>
+            <sample value="113.4337"/>
+            <sample value="119.4308"/>
+            <sample value="125.43"/>
+            <sample value="131.4302"/>
+            <sample value="137.4273"/>
+            <sample value="143.4305"/>
+            <sample value="148.2275"/>
+            <sample value="152.3409"/>
+            <sample value="158.6063"/>
+            <sample value="164.601"/>
+            <sample value="167.1144"/>
+            <sample value="170.5998"/>
+            <sample value="176.5988"/>
+            <sample value="182.6002"/>
+          </function>
+          <function domain="polyline" name="diameter">
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+            <sample value="6.0"/>
+          </function>
+        </functions>
+        <root id="27" label="Root">
+          <geometry>
+            <polyline>
+              <point x="983.0" y="193.0"/>
+              <point x="984.0" y="194.0"/>
+              <point x="984.0" y="194.0"/>
+              <point x="986.0" y="194.0"/>
+              <point x="986.0" y="195.0"/>
+              <point x="987.0" y="196.0"/>
+              <point x="989.0" y="197.0"/>
+              <point x="989.0" y="197.0"/>
+              <point x="992.0" y="198.0"/>
+              <point x="993.0" y="200.0"/>
+              <point x="995.0" y="202.0"/>
+              <point x="997.0" y="202.0"/>
+              <point x="999.0" y="206.0"/>
+              <point x="1002.0" y="210.0"/>
+              <point x="1004.0" y="213.0"/>
+              <point x="1006.0" y="215.0"/>
+              <point x="1010.0" y="220.0"/>
+              <point x="1013.0" y="225.0"/>
+              <point x="1019.0" y="237.0"/>
+              <point x="1020.0" y="245.0"/>
+              <point x="1022.0" y="252.0"/>
+              <point x="1025.0" y="258.0"/>
+              <point x="1025.0" y="265.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="7.0"/>
+              <sample value="8.0"/>
+              <sample value="9.0"/>
+              <sample value="10.0"/>
+              <sample value="11.0"/>
+              <sample value="12.0"/>
+              <sample value="13.0"/>
+              <sample value="14.0"/>
+              <sample value="15.0"/>
+              <sample value="16.0"/>
+              <sample value="17.0"/>
+              <sample value="18.0"/>
+              <sample value="19.0"/>
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="0.0"/>
+              <sample value="49.6537"/>
+              <sample value="55.6555"/>
+              <sample value="61.6557"/>
+              <sample value="67.6547"/>
+              <sample value="73.6553"/>
+              <sample value="79.6567"/>
+              <sample value="85.657"/>
+              <sample value="91.6552"/>
+              <sample value="95.4305"/>
+              <sample value="101.4303"/>
+              <sample value="107.4301"/>
+              <sample value="113.4337"/>
+              <sample value="119.4308"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+              <sample value="5.656854249492381"/>
+            </function>
+          </functions>
+        </root>
+        <root id="28" label="Root">
+          <geometry>
+            <polyline>
+              <point x="986.0" y="230.0"/>
+              <point x="986.5" y="230.5"/>
+              <point x="987.0" y="231.0"/>
+              <point x="988.0" y="234.0"/>
+              <point x="988.0" y="235.0"/>
+              <point x="988.0" y="236.0"/>
+              <point x="988.0" y="238.0"/>
+              <point x="992.0" y="242.0"/>
+              <point x="993.0" y="246.0"/>
+              <point x="995.0" y="250.0"/>
+              <point x="997.0" y="255.0"/>
+              <point x="997.0" y="260.0"/>
+              <point x="998.0" y="266.0"/>
+              <point x="998.0" y="270.0"/>
+              <point x="998.0" y="276.0"/>
+              <point x="998.0" y="281.0"/>
+              <point x="998.0" y="292.0"/>
+              <point x="999.0" y="299.0"/>
+              <point x="1001.0" y="304.0"/>
+              <point x="1004.0" y="309.0"/>
+              <point x="1008.0" y="316.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="9.0"/>
+              <sample value="10.0"/>
+              <sample value="11.0"/>
+              <sample value="12.0"/>
+              <sample value="13.0"/>
+              <sample value="14.0"/>
+              <sample value="15.0"/>
+              <sample value="16.0"/>
+              <sample value="17.0"/>
+              <sample value="18.0"/>
+              <sample value="19.0"/>
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="55.6555"/>
+              <sample value="61.6557"/>
+              <sample value="67.6547"/>
+              <sample value="73.6553"/>
+              <sample value="79.6567"/>
+              <sample value="85.657"/>
+              <sample value="91.6552"/>
+              <sample value="95.4305"/>
+              <sample value="101.4303"/>
+              <sample value="107.4301"/>
+              <sample value="113.4337"/>
+              <sample value="119.4308"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+            </function>
+          </functions>
+        </root>
+        <root id="29" label="Root">
+          <geometry>
+            <polyline>
+              <point x="977.0" y="247.0"/>
+              <point x="975.0" y="250.0"/>
+              <point x="974.0" y="250.0"/>
+              <point x="974.0" y="250.0"/>
+              <point x="974.0" y="251.0"/>
+              <point x="972.0" y="251.0"/>
+              <point x="972.0" y="252.0"/>
+              <point x="969.0" y="253.0"/>
+              <point x="968.0" y="256.0"/>
+              <point x="967.0" y="256.0"/>
+              <point x="964.0" y="259.0"/>
+              <point x="961.0" y="263.0"/>
+              <point x="960.0" y="272.0"/>
+              <point x="957.0" y="281.0"/>
+              <point x="957.0" y="287.0"/>
+              <point x="954.0" y="292.0"/>
+              <point x="953.0" y="299.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="13.0"/>
+              <sample value="14.0"/>
+              <sample value="15.0"/>
+              <sample value="16.0"/>
+              <sample value="17.0"/>
+              <sample value="18.0"/>
+              <sample value="19.0"/>
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="0.0"/>
+              <sample value="85.657"/>
+              <sample value="91.6552"/>
+              <sample value="95.4305"/>
+              <sample value="101.4303"/>
+              <sample value="107.4301"/>
+              <sample value="113.4337"/>
+              <sample value="119.4308"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+            </function>
+          </functions>
+        </root>
+        <root id="30" label="Root">
+          <geometry>
+            <polyline>
+              <point x="990.0" y="365.0"/>
+              <point x="990.0" y="366.0"/>
+              <point x="990.0" y="367.0"/>
+              <point x="990.0" y="369.0"/>
+              <point x="990.0" y="369.3333"/>
+              <point x="990.0" y="369.6667"/>
+              <point x="990.0" y="370.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+            </function>
+          </functions>
+        </root>
+      </root>
+    </plant>
+    <plant id="31" label="Plant">
+      <root id="32" label="Root">
+        <geometry>
+          <polyline>
+            <point x="1176.0" y="153.0"/>
+            <point x="1175.0" y="155.0"/>
+            <point x="1175.0" y="157.0"/>
+            <point x="1173.0" y="159.0"/>
+            <point x="1172.0" y="161.0"/>
+            <point x="1172.0" y="163.0"/>
+            <point x="1172.0" y="165.0"/>
+            <point x="1171.0" y="167.0"/>
+            <point x="1171.0" y="170.0"/>
+            <point x="1171.0" y="172.0"/>
+            <point x="1170.0" y="174.0"/>
+            <point x="1170.0" y="176.0"/>
+            <point x="1169.0" y="178.0"/>
+            <point x="1169.0" y="180.0"/>
+            <point x="1169.0" y="182.0"/>
+            <point x="1168.0" y="238.0"/>
+            <point x="1165.0" y="243.0"/>
+            <point x="1164.0" y="297.0"/>
+            <point x="1160.0" y="319.0"/>
+            <point x="1160.0" y="347.0"/>
+            <point x="1159.0" y="348.0"/>
+            <point x="1158.0" y="372.0"/>
+            <point x="1151.0" y="381.0"/>
+            <point x="1144.0" y="389.0"/>
+            <point x="1140.0" y="398.0"/>
+            <point x="1140.0" y="406.0"/>
+            <point x="1142.0" y="412.0"/>
+            <point x="1143.0" y="417.0"/>
+            <point x="1143.0" y="425.0"/>
+            <point x="1142.0" y="429.0"/>
+            <point x="1140.0" y="434.0"/>
+            <point x="1138.0" y="439.0"/>
+            <point x="1137.0" y="442.0"/>
+            <point x="1137.0" y="449.0"/>
+            <point x="1137.0" y="452.0"/>
+            <point x="1137.0" y="455.0"/>
+            <point x="1138.0" y="458.0"/>
+            <point x="1140.0" y="464.0"/>
+            <point x="1142.0" y="469.0"/>
+            <point x="1144.0" y="477.0"/>
+            <point x="1145.0" y="485.0"/>
+            <point x="1146.0" y="491.0"/>
+            <point x="1148.0" y="493.0"/>
+            <point x="1148.0" y="497.0"/>
+            <point x="1150.0" y="508.0"/>
+            <point x="1151.0" y="509.0"/>
+            <point x="1151.0" y="519.0"/>
+            <point x="1151.0" y="530.0"/>
+            <point x="1149.0" y="532.0"/>
+            <point x="1147.0" y="545.0"/>
+            <point x="1147.0" y="551.0"/>
+            <point x="1149.0" y="556.0"/>
+            <point x="1152.0" y="562.0"/>
+            <point x="1155.0" y="574.0"/>
+            <point x="1157.0" y="576.0"/>
+            <point x="1159.0" y="587.0"/>
+            <point x="1161.0" y="589.0"/>
+            <point x="1161.0" y="598.0"/>
+          </polyline>
+        </geometry>
+        <functions>
+          <function domain="polyline" name="time">
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="1.0"/>
+            <sample value="2.0"/>
+            <sample value="3.0"/>
+            <sample value="4.0"/>
+            <sample value="5.0"/>
+            <sample value="6.0"/>
+            <sample value="7.0"/>
+            <sample value="8.0"/>
+            <sample value="9.0"/>
+            <sample value="10.0"/>
+            <sample value="11.0"/>
+            <sample value="12.0"/>
+            <sample value="13.0"/>
+            <sample value="14.0"/>
+            <sample value="15.0"/>
+            <sample value="16.0"/>
+            <sample value="17.0"/>
+            <sample value="18.0"/>
+            <sample value="19.0"/>
+            <sample value="20.0"/>
+            <sample value="21.0"/>
+            <sample value="21.4142"/>
+            <sample value="22.0"/>
+            <sample value="23.0"/>
+            <sample value="23.1239"/>
+            <sample value="24.0"/>
+            <sample value="24.4077"/>
+            <sample value="24.5125"/>
+            <sample value="25.0"/>
+            <sample value="25.527"/>
+            <sample value="26.0"/>
+            <sample value="26.3516"/>
+            <sample value="27.0"/>
+            <sample value="27.2019"/>
+            <sample value="28.0"/>
+            <sample value="28.2391"/>
+            <sample value="29.0"/>
+          </function>
+          <function domain="polyline" name="time_hours">
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="0.0"/>
+            <sample value="13.6583"/>
+            <sample value="19.6549"/>
+            <sample value="25.6589"/>
+            <sample value="31.6559"/>
+            <sample value="37.655"/>
+            <sample value="43.6534"/>
+            <sample value="49.6537"/>
+            <sample value="55.6555"/>
+            <sample value="61.6557"/>
+            <sample value="67.6547"/>
+            <sample value="73.6553"/>
+            <sample value="79.6567"/>
+            <sample value="85.657"/>
+            <sample value="91.6552"/>
+            <sample value="95.4305"/>
+            <sample value="101.4303"/>
+            <sample value="107.4301"/>
+            <sample value="113.4337"/>
+            <sample value="119.4308"/>
+            <sample value="125.43"/>
+            <sample value="127.9154"/>
+            <sample value="131.4302"/>
+            <sample value="137.4273"/>
+            <sample value="138.1711"/>
+            <sample value="143.4305"/>
+            <sample value="149.6175"/>
+            <sample value="151.2084"/>
+            <sample value="158.6063"/>
+            <sample value="161.7655"/>
+            <sample value="164.601"/>
+            <sample value="166.7103"/>
+            <sample value="170.5998"/>
+            <sample value="171.811"/>
+            <sample value="176.5988"/>
+            <sample value="178.0339"/>
+            <sample value="182.6002"/>
+          </function>
+          <function domain="polyline" name="diameter">
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+            <sample value="4.47213595499958"/>
+          </function>
+        </functions>
+        <root id="33" label="Root">
+          <geometry>
+            <polyline>
+              <point x="1163.0" y="194.0"/>
+              <point x="1161.5" y="194.0"/>
+              <point x="1160.0" y="194.0"/>
+              <point x="1157.0" y="197.0"/>
+              <point x="1156.0" y="198.0"/>
+              <point x="1153.0" y="202.0"/>
+              <point x="1152.0" y="203.0"/>
+              <point x="1152.0" y="208.0"/>
+              <point x="1153.0" y="213.0"/>
+              <point x="1153.0" y="219.0"/>
+              <point x="1153.0" y="224.0"/>
+              <point x="1154.0" y="231.0"/>
+              <point x="1153.0" y="237.0"/>
+              <point x="1153.0" y="244.0"/>
+              <point x="1153.0" y="253.0"/>
+              <point x="1153.0" y="260.0"/>
+              <point x="1156.0" y="272.0"/>
+              <point x="1158.0" y="274.0"/>
+              <point x="1160.0" y="283.0"/>
+              <point x="1161.0" y="291.0"/>
+              <point x="1160.0" y="299.0"/>
+              <point x="1160.0" y="306.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="10.0"/>
+              <sample value="11.0"/>
+              <sample value="12.0"/>
+              <sample value="13.0"/>
+              <sample value="14.0"/>
+              <sample value="15.0"/>
+              <sample value="16.0"/>
+              <sample value="17.0"/>
+              <sample value="18.0"/>
+              <sample value="19.0"/>
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="24.3458"/>
+              <sample value="25.0"/>
+              <sample value="25.2235"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="61.6557"/>
+              <sample value="67.6547"/>
+              <sample value="73.6553"/>
+              <sample value="79.6567"/>
+              <sample value="85.657"/>
+              <sample value="91.6552"/>
+              <sample value="95.4305"/>
+              <sample value="101.4303"/>
+              <sample value="107.4301"/>
+              <sample value="113.4337"/>
+              <sample value="119.4308"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="148.6785"/>
+              <sample value="158.6063"/>
+              <sample value="159.9458"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+            </function>
+          </functions>
+        </root>
+        <root id="34" label="Root">
+          <geometry>
+            <polyline>
+              <point x="1172.0" y="199.0"/>
+              <point x="1173.0" y="199.0"/>
+              <point x="1174.0" y="200.0"/>
+              <point x="1175.0" y="201.0"/>
+              <point x="1177.0" y="203.0"/>
+              <point x="1180.0" y="206.0"/>
+              <point x="1182.0" y="209.0"/>
+              <point x="1184.0" y="212.0"/>
+              <point x="1186.0" y="218.0"/>
+              <point x="1187.0" y="221.0"/>
+              <point x="1187.0" y="223.0"/>
+              <point x="1189.0" y="227.0"/>
+              <point x="1190.0" y="232.0"/>
+              <point x="1190.0" y="237.0"/>
+              <point x="1188.0" y="242.0"/>
+              <point x="1186.0" y="245.0"/>
+              <point x="1182.0" y="251.0"/>
+              <point x="1181.0" y="257.0"/>
+              <point x="1182.0" y="266.0"/>
+              <point x="1186.0" y="276.0"/>
+              <point x="1186.0" y="284.0"/>
+              <point x="1186.0" y="294.0"/>
+              <point x="1186.0" y="299.0"/>
+              <point x="1186.0" y="309.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="7.0"/>
+              <sample value="8.0"/>
+              <sample value="9.0"/>
+              <sample value="10.0"/>
+              <sample value="11.0"/>
+              <sample value="12.0"/>
+              <sample value="13.0"/>
+              <sample value="14.0"/>
+              <sample value="15.0"/>
+              <sample value="16.0"/>
+              <sample value="17.0"/>
+              <sample value="18.0"/>
+              <sample value="19.0"/>
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="24.4468"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="43.6534"/>
+              <sample value="49.6537"/>
+              <sample value="55.6555"/>
+              <sample value="61.6557"/>
+              <sample value="67.6547"/>
+              <sample value="73.6553"/>
+              <sample value="79.6567"/>
+              <sample value="85.657"/>
+              <sample value="91.6552"/>
+              <sample value="95.4305"/>
+              <sample value="101.4303"/>
+              <sample value="107.4301"/>
+              <sample value="113.4337"/>
+              <sample value="119.4308"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="150.211"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+              <sample value="4.0"/>
+            </function>
+          </functions>
+        </root>
+        <root id="35" label="Root">
+          <geometry>
+            <polyline>
+              <point x="1171.0" y="225.0"/>
+              <point x="1173.0" y="228.0"/>
+              <point x="1174.0" y="228.0"/>
+              <point x="1176.0" y="230.0"/>
+              <point x="1176.0" y="232.0"/>
+              <point x="1177.0" y="234.0"/>
+              <point x="1178.0" y="238.0"/>
+              <point x="1179.0" y="243.0"/>
+              <point x="1181.0" y="247.0"/>
+              <point x="1180.0" y="252.0"/>
+              <point x="1178.0" y="258.0"/>
+              <point x="1180.0" y="264.0"/>
+              <point x="1184.0" y="274.0"/>
+              <point x="1184.0" y="283.0"/>
+              <point x="1184.0" y="288.0"/>
+              <point x="1184.0" y="295.0"/>
+            </polyline>
+          </geometry>
+          <functions>
+            <function domain="polyline" name="time">
+              <sample value="14.0"/>
+              <sample value="15.0"/>
+              <sample value="16.0"/>
+              <sample value="17.0"/>
+              <sample value="18.0"/>
+              <sample value="19.0"/>
+              <sample value="20.0"/>
+              <sample value="21.0"/>
+              <sample value="22.0"/>
+              <sample value="23.0"/>
+              <sample value="24.0"/>
+              <sample value="25.0"/>
+              <sample value="26.0"/>
+              <sample value="27.0"/>
+              <sample value="28.0"/>
+              <sample value="29.0"/>
+            </function>
+            <function domain="polyline" name="time_hours">
+              <sample value="0.0"/>
+              <sample value="91.6552"/>
+              <sample value="95.4305"/>
+              <sample value="101.4303"/>
+              <sample value="107.4301"/>
+              <sample value="113.4337"/>
+              <sample value="119.4308"/>
+              <sample value="125.43"/>
+              <sample value="131.4302"/>
+              <sample value="137.4273"/>
+              <sample value="143.4305"/>
+              <sample value="158.6063"/>
+              <sample value="164.601"/>
+              <sample value="170.5998"/>
+              <sample value="176.5988"/>
+              <sample value="182.6002"/>
+            </function>
+            <function domain="polyline" name="diameter">
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+              <sample value="4.47213595499958"/>
+            </function>
+          </functions>
+        </root>
+      </root>
+    </plant>
+  </scene>
+</rsml>
