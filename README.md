@@ -25,11 +25,13 @@ This repository share a 2D+t root system architecture (RSA) dataset reconstructe
 - Jean-Baptiste Durand ([@jbdurand](https://github/jbdurand)) : Tree Markovian models, Structure Analysis
 - Stathis Delivorias ([@jazzsta](https://github/jazzsta)) : Topological Data Analysis
 - Romain Fernandez ([@rocsg](https://github/rocsg)) : Spatio-temporal image analysis and phenotyping
-- Loaï Gandeel ([@Money-eng](https://github/Money-eng)) : Spatio-temporal image analysis and phenotyping
+- Loaï Gandeel ([@Money-eng](https://github/Money-eng)) : Spatio-temporal image analysis and phenotyping, RSML
+- Philippe Nacry (INRAE, IPSIM) : HIRROS, data acquisition
 
 ## Institute
 * [CIRAD](https://www.cirad.fr), [UMR AGAP institute](https://umr-agap.cirad.fr/) and [UMR AMAP](https://amap.cirad.fr/).
 * The [MaCS4Plants](https://macs4plants.cirad.fr/) network : Math & CS for modelling agroecosystems.
+* INRAE IPSIM, Montpellier : hydraulic and root phenotyping
 * inria and INRAE are members of the OpenAlea consortium
 
 ## Install
