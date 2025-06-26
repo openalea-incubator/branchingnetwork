@@ -41,7 +41,18 @@ Dependencies :
 * openalea.plantgl
 * rsml
 
+
+
 ### Mamba / Conda
+```bash
+mamba create -n branch -c openalea3 -c conda-forge openalea.mtg rsml
+```
+
+To compute fluxes use
+```bash
+mamba activate branch
+mamba install -c openalea3 -c conda-forge openalea.hydroroot
+```
 
 
 ### Contributors
