@@ -57,7 +57,21 @@ mamba activate branch
 mamba install -c openalea3 -c conda-forge openalea.hydroroot
 ```
 
+## Citations
 
+### Multiscale plat and root representation
+- Pradal, C., & Godin, C. (2020). MTG as a standard representation of plants in FSPMs.
+- Lobet, G., Pound, M. P., Diener, J., Pradal, C. et al. (2015). Root system markup language: toward a unified root architecture description language. Plant physiology, 167(3), 617-627. https://doi.org/10.1104/pp.114.253625
+
+### Root Hydraulic  Architecture
+- Bauget, F., Protto, V., Pradal, C., Boursiac, Y., & Maurel, C. (2023). A root functional–structural model allows assessment of the effects of water deficit on water and solute transport parameters. Journal of Experimental Botany, 74(5), 1594-1608. https://doi.org/10.1093/jxb/erac471 
+- Boursiac, Y., Pradal, C., Bauget, F., Lucas, M., Delivorias, S., Godin, C., & Maurel, C. (2022). Phenotyping and modeling of root hydraulic architecture reveal critical determinants of axial water transport. Plant Physiology, 190(2), 1289-1306. https://doi.org/10.1093/plphys/kiac281
+
+### Plant Simulation with L-Systems
+- Boudon, F., Pradal, C., Cokelaer, T., Prusinkiewicz, P., & Godin, C. (2012). L-Py: an L-system simulation framework for modeling plant architecture development based on a dynamic language. Frontiers in plant science, 3, 76. https://doi.org/10.3389/fpls.2012.00076
+
+### Statistical Analysis of branching systems
+- 
 
 ### Contributors
 
