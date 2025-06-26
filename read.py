@@ -6,6 +6,8 @@ import numpy as np
 
 from pathlib import Path
 
+from matplotlib import cm, pyplot as plt
+
 data = Path('data')/'UC1_HIRROS_arabidopsis'
 
 fn = next(data.glob('*.rsml'))
@@ -24,7 +26,7 @@ def distance_polyline(p1, p2):
     closest_point = p1[closest_index]
     # Distance to the closest point
     distance = np.linalg.norm(closest_point - point_p2)
-    if distance > 5:
+    if distance > 20:
         print("Distance to the closest point ", distance)
 
     return closest_index 
@@ -155,7 +157,52 @@ def test_all():
     return dgs
 
 
+def times(g):
+    """
+    Return the time property of the MTG.
+    """
+    _time =  g.property('time')
 
+    _times = []
+    for t in _time.values():
+        if isinstance(t, list):
+            _times.extend(t)
+        else:
+            _times.append(t)
 
+    _times = set(_times)
+    _times = sorted(_times)
+    return list(_times)
                 
 
+def plot_mpl(g, ax=None, **kwargs):
+    """
+    Plot the MTG using matplotlib.
+    """
+    import matplotlib.pyplot as plt
+  
+
+    if ax is None:
+        fig, ax = plt.subplots()
+
+    edgelist = list(g.edges())
+    nodelist = list(g.nodes())
+
+    rotated_pos = {node: (attrs["pos"][0], -attrs["pos"][1]) for node, attrs in g.nodes(data=True)}
+    colors = list(v for k, v in g.nodes(data='time'))
+    
+    fig = nx.draw_networkx(
+        g,
+        edgelist=edgelist,
+        nodelist=nodelist,
+        node_color=colors,
+        edge_color=colors[1:],
+        pos=rotated_pos,
+        with_labels=False,
+        width=1,
+        node_size=5,
+        arrows=False,
+        ax=ax
+    )
+
+    return fig
