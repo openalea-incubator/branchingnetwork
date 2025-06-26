@@ -4,6 +4,9 @@ from openalea.mtg import traversal, algo
 import networkx as nx
 import numpy as np
 
+import json
+from networkx.readwrite import json_graph
+
 from pathlib import Path
 
 from matplotlib import cm, pyplot as plt
@@ -144,6 +147,12 @@ def convert_nx(g):
     return tree_nx
 
 
+def rsml2nx(fn):
+    g = convert_fine_mtg(fn)
+
+    gs = split(g)
+    dgs = [convert_nx(g) for g in gs]
+    return dgs
 
                 
 def test_all():
@@ -206,3 +215,14 @@ def plot_mpl(g, ax=None, **kwargs):
     )
 
     return fig
+
+def save_json(g, fn):
+    """
+    Save the MTG to a JSON file.
+    """
+
+    data = json_graph.tree_data(g, root=0)
+    with open(fn, 'w') as f:
+        json.dump(data, f, indent=2)
+    return True
+
