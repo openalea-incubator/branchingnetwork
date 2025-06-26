@@ -214,6 +214,8 @@ def plot_mpl(g, ax=None, **kwargs):
         ax=ax
     )
 
+    plt.gca().set_aspect('equal')
+
     return fig
 
 def save_json(g, fn):
