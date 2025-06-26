@@ -8,7 +8,7 @@ from pathlib import Path
 
 data = Path('data')/'UC1_HIRROS_arabidopsis'
 
-fn = next(data.data_dir.glob('*.rsml'))
+fn = next(data.glob('*.rsml'))
 
 def distance_polyline(p1, p2):
     """
