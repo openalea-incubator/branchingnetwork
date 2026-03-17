@@ -87,3 +87,6 @@ out
 
 # Sphinx
 _static
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
