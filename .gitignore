@@ -90,3 +90,7 @@ _static
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+
+# MTG plot
+mtg.html
+

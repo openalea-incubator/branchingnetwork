@@ -148,6 +148,7 @@ def convert_nx(g):
     tree_nx = nx.convert_node_labels_to_integers(g_nx)
     return tree_nx
 
+mtg2nx = convert_nx
 
 def rsml2nx(fn):
     g = convert_fine_mtg(fn)
@@ -390,3 +391,36 @@ def discretize_mtg(g_c, segment_length = 1.0e-4, resolution = 1.0e-4):
 
 
     return g
+
+def analyze_with_ariadne(fn):
+    """Open a file and analyse the graph with ariadne software. """
+    with open(fn, mode="r") as h:
+        data = json.load(h)
+        graph = json_graph.adjacency_graph(data)
+        return analyze_with_ariadne_graph(graph)
+
+def analyze_with_ariadne_graph(g):
+    """Analyse the graph with ariadne software. 
+
+    Inputs
+    ------
+      - g : nx adjacency graph
+
+    Returns
+    -------
+      - results : analysis 
+      - front: alpha parameters used to compute pareto front
+      - randoms: random architectures
+    """
+    from ariadne_roots.quantify import analyze
+    #graph = json_graph.adjacency_graph(data)
+    results, front, randoms = analyze(g)
+    return results, front, randoms
+
+
+def json2nx(fn):
+    from networkx.readwrite import json_graph
+    with open(fn, mode="r") as h:
+        data = json.load(h)
+        graph = json_graph.adjacency_graph(data)
+        return graph
